@@ -62,19 +62,19 @@
         <picklist>
             <picklistValues>
                 <default>false</default>
-                <fullName>Apple</fullName>
-            </picklistValues>
-            <picklistValues>
-                <default>false</default>
-                <fullName>Dell</fullName>
-            </picklistValues>
-            <picklistValues>
-                <default>false</default>
                 <fullName>Hp</fullName>
             </picklistValues>
             <picklistValues>
                 <default>false</default>
+                <fullName>Sony</fullName>
+            </picklistValues>
+            <picklistValues>
+                <default>false</default>
                 <fullName>Lenovo</fullName>
+            </picklistValues>
+            <picklistValues>
+                <default>false</default>
+                <fullName>IBM</fullName>
             </picklistValues>
             <sorted>false</sorted>
         </picklist>
