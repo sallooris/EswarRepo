@@ -5,16 +5,21 @@
         <members>ARApexclass2</members>
         <members>ARApexclass234</members>
         <members>ARApexclass2345</members>
+        <members>ARPTCls1</members>
         <members>Ac1</members>
         <members>Ac2</members>
+        <members>AppCls01</members>
+        <members>AppCls02</members>
         <members>ApxCls1</members>
         <members>ApxCls2</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>ARCobjA1__c.ARCobjA1_desc__c</members>
         <members>AR_AccObj1__c.AccObj1Remarks__c</members>
         <members>Computer__c.ComputerManufacturar__c</members>
         <members>Computer__c.ComputerPrice__c</members>
+        <members>MyObj1__c.MyObj1Id__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -28,6 +33,7 @@
     <types>
         <members>AR_AccObj1__c</members>
         <members>Computer__c</members>
+        <members>MyObj1__c</members>
         <name>CustomObject</name>
     </types>
     <types>
