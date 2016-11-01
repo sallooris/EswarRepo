@@ -12,6 +12,7 @@
         <members>AppCls02</members>
         <members>ApxCls1</members>
         <members>ApxCls2</members>
+        <members>ApxCls3</members>
         <name>ApexClass</name>
     </types>
     <types>
