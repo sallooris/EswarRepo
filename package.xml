@@ -46,6 +46,7 @@
     </types>
     <types>
         <members>Computer__c-Computer Layout</members>
+        <members>MyObj1__c-MyObj1 Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -91,5 +92,21 @@
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>MyObj1__c.MyObj1RecordTypeLabel1</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>MyObj1__c.ApexResonLabel1__c</members>
+        <name>SharingReason</name>
+    </types>
+    <types>
+        <members>MyObj1__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>MyObj1__c</members>
+        <name>Workflow</name>
     </types>
 </Package>
