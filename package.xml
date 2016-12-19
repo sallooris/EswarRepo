@@ -34,6 +34,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>ARCobjA1__c</members>
         <members>AR_AccObj1__c</members>
         <members>Computer__c</members>
         <members>MyObj1__c</members>
