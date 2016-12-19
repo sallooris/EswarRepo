@@ -20,6 +20,8 @@
     <types>
         <members>ARCobjA1__c.ARCobjA1_desc__c</members>
         <members>AR_AccObj1__c.AccObj1Remarks__c</members>
+        <members>ArObjB1__c.ArObjB1Desc__c</members>
+        <members>ArObjB1__c.ArObjB1Phone__c</members>
         <members>Computer__c.ComputerManufacturar__c</members>
         <members>Computer__c.ComputerPrice__c</members>
         <members>MyObj1__c.MyObj1Id__c</members>
@@ -36,6 +38,7 @@
     <types>
         <members>ARCobjA1__c</members>
         <members>AR_AccObj1__c</members>
+        <members>ArObjB1__c</members>
         <members>Computer__c</members>
         <members>MyObj1__c</members>
         <name>CustomObject</name>
