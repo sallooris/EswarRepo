@@ -52,6 +52,10 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>ARGlobalPicklist1</members>
+        <name>GlobalPicklist</name>
+    </types>
+    <types>
         <members>Computer__c-Computer Layout</members>
         <members>MyObj1__c-MyObj1 Layout</members>
         <name>Layout</name>
