@@ -22,13 +22,13 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ApxClass12345</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>ArDemo1</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
-    <custom>false</custom>
+    <custom>true</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

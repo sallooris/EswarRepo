@@ -6,11 +6,11 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A2222</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Ac1111</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>AppCls01</apexClass>
@@ -22,13 +22,13 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ApxClass12345</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>ArDemo1</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
-    <custom>false</custom>
+    <custom>true</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
