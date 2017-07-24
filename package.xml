@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+    <version>39.0</version>
     <types>
         <members>ARApexclass2</members>
         <members>ARApexclass234</members>
@@ -19,12 +19,49 @@
     </types>
     <types>
         <members>ARCobjA1__c.ARCobjA1_desc__c</members>
+        <members>ARCustomSetting1ListSeetingObj__c.siRequiredValue__c</members>
         <members>AR_AccObj1__c.AccObj1Remarks__c</members>
+        <members>Account.Active__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>ArManagement__c.ArManagement_Description__c</members>
         <members>ArObjB1__c.ArObjB1Desc__c</members>
         <members>ArObjB1__c.ArObjB1Phone__c</members>
+        <members>Case.EngineeringReqNumber__c</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Product__c</members>
+        <members>Case.SLAViolation__c</members>
         <members>Computer__c.ComputerManufacturar__c</members>
         <members>Computer__c.ComputerPrice__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <members>Goal.OrigGoalId__c</members>
+        <members>Lead.CurrentGenerators__c</members>
+        <members>Lead.NumberofLocations__c</members>
+        <members>Lead.Primary__c</members>
+        <members>Lead.ProductInterest__c</members>
+        <members>Lead.SICCode__c</members>
+        <members>Metric.OrigMetricId__c</members>
         <members>MyObj1__c.MyObj1Id__c</members>
+        <members>OBILLSwitchesObj__c.Value__c</members>
+        <members>Object_Local__c.Field1__c</members>
+        <members>OnlineSalesKeyObj2__c.Value__c</members>
+        <members>Opportunity.CurrentGenerators__c</members>
+        <members>Opportunity.DeliveryInstallationStatus__c</members>
+        <members>Opportunity.MainCompetitors__c</members>
+        <members>Opportunity.OrderNumber__c</members>
+        <members>Opportunity.TrackingNumber__c</members>
+        <members>Passenger__c.Ps1masterDetailsField__c</members>
+        <members>Passenger__c.TestRlTest1__c</members>
+        <members>ProfileSearch2Obj__c.Email_Template_1__c</members>
+        <members>QBOSubscribeObj__c.ActiveStatus__c</members>
+        <members>QBOSubscribeObj__c.Countries__c</members>
+        <members>QBOSubscribeObj__c.ProductFamilies__c</members>
+        <members>SOAVOCSurveySettingObj__c.Where_Clause__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -37,10 +74,71 @@
     </types>
     <types>
         <members>ARCobjA1__c</members>
+        <members>ARCustomSetting1ListSeetingObj__c</members>
         <members>AR_AccObj1__c</members>
+        <members>Account</members>
+        <members>AccountCleanInfo</members>
+        <members>AccountContactRole</members>
+        <members>Activity</members>
+        <members>ArManagement__c</members>
         <members>ArObjB1__c</members>
+        <members>Asset</members>
+        <members>AssetRelationship</members>
+        <members>AssistantProgress</members>
+        <members>Campaign</members>
+        <members>CampaignMember</members>
+        <members>Case</members>
+        <members>CaseContactRole</members>
         <members>Computer__c</members>
+        <members>Contact</members>
+        <members>ContactCleanInfo</members>
+        <members>ContentVersion</members>
+        <members>Contract</members>
+        <members>ContractContactRole</members>
+        <members>DandBCompany</members>
+        <members>DuplicateRecordItem</members>
+        <members>DuplicateRecordSet</members>
+        <members>EmailMessage</members>
+        <members>Event</members>
+        <members>ExchangeUserMapping</members>
+        <members>FeedItem</members>
+        <members>ForecastingCategoryMapping</members>
+        <members>Idea</members>
+        <members>Lead</members>
+        <members>LeadCleanInfo</members>
+        <members>Macro</members>
+        <members>MacroAction</members>
+        <members>MacroInstruction</members>
         <members>MyObj1__c</members>
+        <members>OBILLSwitchesObj__c</members>
+        <members>Object_Local__c</members>
+        <members>OnlineSalesKeyObj2__c</members>
+        <members>OnlineSalesKeyObj__c</members>
+        <members>Opportunity</members>
+        <members>OpportunityCompetitor</members>
+        <members>OpportunityContactRole</members>
+        <members>OpportunityLineItem</members>
+        <members>Order</members>
+        <members>OrderItem</members>
+        <members>PartnerRole</members>
+        <members>Passenger__c</members>
+        <members>Pricebook2</members>
+        <members>PricebookEntry</members>
+        <members>Product2</members>
+        <members>ProfileSearch2Obj__c</members>
+        <members>ProfileSearchObj__c</members>
+        <members>QBOSubscribeObj__c</members>
+        <members>SOAVOCSurveySettingObj__c</members>
+        <members>SignatureImageRestrictionsObj__c</members>
+        <members>Site</members>
+        <members>SocialPersona</members>
+        <members>Solution</members>
+        <members>Std__c</members>
+        <members>StreamingChannel</members>
+        <members>Support_Test_Obj__c</members>
+        <members>Task</members>
+        <members>User</members>
+        <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
     </types>
     <types>
