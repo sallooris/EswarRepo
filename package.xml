@@ -42,6 +42,7 @@
         <members>ArObjB1__c</members>
         <members>Computer__c</members>
         <members>MyObj1__c</members>
+        <members>TestObjecy__c</members>
         <name>CustomObject</name>
     </types>
     <types>
