@@ -15,6 +15,7 @@
         <members>ApxCls3</members>
         <members>MyClass</members>
         <members>MyWorld</members>
+        <members>TestApexCls</members>
         <name>ApexClass</name>
     </types>
     <types>
