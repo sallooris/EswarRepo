@@ -41,6 +41,7 @@
         <members>AR_AccObj1__c</members>
         <members>Account</members>
         <members>ArObjB1__c</members>
+        <members>Case</members>
         <members>Computer__c</members>
         <members>MyObj1__c</members>
         <members>TestObjecy__c</members>
