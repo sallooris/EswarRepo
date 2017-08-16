@@ -25,6 +25,7 @@
         <members>ArObjB1__c.ArObjB1Phone__c</members>
         <members>Computer__c.ComputerManufacturar__c</members>
         <members>Computer__c.ComputerPrice__c</members>
+        <members>LeelaTEst__c.dfg__c</members>
         <members>MyObj1__c.MyObj1Id__c</members>
         <name>CustomField</name>
     </types>
