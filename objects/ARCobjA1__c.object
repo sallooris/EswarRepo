@@ -71,6 +71,13 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>ARCobjA1s</pluralLabel>
+    <recordTypes>
+        <fullName>ARCobjA1Record1</fullName>
+        <active>true</active>
+        <description>Testing purpose</description>
+        <label>ARCobjA1Record1</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
 </CustomObject>
