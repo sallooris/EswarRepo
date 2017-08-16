@@ -27,6 +27,7 @@
         <members>Computer__c.ComputerPrice__c</members>
         <members>LeelaTEst__c.dfg__c</members>
         <members>MyObj1__c.MyObj1Id__c</members>
+        <members>Temo__c.df__c</members>
         <name>CustomField</name>
     </types>
     <types>
