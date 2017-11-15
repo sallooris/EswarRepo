@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
         <members>ARApexclass2</members>
         <members>ARApexclass234</members>
@@ -17,6 +17,10 @@
         <members>MyWorld</members>
         <members>TestApexCls</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
     </types>
     <types>
         <members>ARCobjA1__c.ARCobjA1_desc__c</members>
