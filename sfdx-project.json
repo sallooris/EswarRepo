@@ -1,7 +1,7 @@
 {
   "packageDirectories": [
     {
-      "path": "Test",
+      "path": "force-app",
       "default": true
     }
   ],

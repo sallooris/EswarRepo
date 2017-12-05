@@ -72,12 +72,12 @@
                 <field>AccountId</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
-                <field>Product__c</field>
+                <behavior>Edit</behavior>
+                <field>Type</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
-                <field>Type</field>
+                <behavior>Edit</behavior>
+                <field>Reason</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -100,10 +100,6 @@
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>Origin</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Reason</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
@@ -151,7 +147,7 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>EngineeringReqNumber__c</field>
+                <field>Product__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -210,18 +206,18 @@
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
-        <layoutColumns>
-            <layoutItems>
-                <customLink>UpsellCrosssellOpportunity</customLink>
-            </layoutItems>
-        </layoutColumns>
-        <layoutColumns/>
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
     <quickActionList>
         <quickActionListItems>
             <quickActionName>FeedItem.TextPost</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
+            <quickActionName>Case.LogACall</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
+            <quickActionName>Case.ChangeStatus</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>FeedItem.ContentPost</quickActionName>
@@ -247,6 +243,13 @@
             </layoutItem>
         </relatedContentItems>
     </relatedContent>
+    <relatedLists>
+        <fields>SOLUTION.ISSUE</fields>
+        <fields>SOLUTION.SOLUTION_NUMBER</fields>
+        <fields>SOLUTION.STATUS</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <relatedList>RelatedSolutionList</relatedList>
+    </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>
         <fields>TASK.WHO_NAME</fields>
@@ -285,7 +288,7 @@
     <showRunAssignmentRulesCheckbox>true</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>true</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h1a0000012AHJ</masterLabel>
+        <masterLabel>00h1a0000012AH9</masterLabel>
         <sizeX>3</sizeX>
         <sizeY>4</sizeY>
         <summaryLayoutItems>
