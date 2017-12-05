@@ -29,9 +29,6 @@
             <quickActionName>NewLead</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>SendEmail</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>FeedItem.RypplePost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>

@@ -2,7 +2,7 @@
 <OrgPreferenceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <preferences>
         <settingName>EventLogWaveIntegEnabled</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>SendThroughGmailPref</settingName>
@@ -53,10 +53,6 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>Packaging2</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
         <settingName>Translation</settingName>
         <settingValue>false</settingValue>
     </preferences>
@@ -75,10 +71,6 @@
     <preferences>
         <settingName>NotesReservedPref01</settingName>
         <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>ScratchOrgManagementPref</settingName>
-        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>DisableParallelApexTesting</settingName>
@@ -125,6 +117,10 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
+        <settingName>SourceTrackingPref</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
         <settingName>S1OfflinePref</settingName>
         <settingValue>true</settingValue>
     </preferences>
@@ -142,6 +138,6 @@
     </preferences>
     <preferences>
         <settingName>SelfSetPasswordInApi</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
 </OrgPreferenceSettings>

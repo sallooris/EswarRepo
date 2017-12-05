@@ -3,14 +3,10 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
     <tab>standard-Chatter</tab>
-    <tab>standard-UserProfile</tab>
-    <tab>standard-CollaborationGroup</tab>
-    <tab>standard-File</tab>
     <tab>standard-Campaign</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Contact</tab>
     <tab>standard-Opportunity</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <uiType>Aloha</uiType>
 </CustomApplication>

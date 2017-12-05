@@ -18,10 +18,14 @@
                 <behavior>Edit</behavior>
                 <field>IsActive</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>RewardFundId</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>OwnerId</field>
             </layoutItems>
             <layoutItems>

@@ -17,11 +17,7 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Chatter</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__Community</name>
+        <name>standard__ServiceConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -29,11 +25,19 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Content</name>
+        <name>standard__Community</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>Dev_Hub</name>
+        <name>standard__Sites</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__Chatter</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__Content</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>

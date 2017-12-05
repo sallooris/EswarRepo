@@ -78,6 +78,11 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
+    <fields>
+        <fullName>RewardFundId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
     <searchLayouts>
         <customTabListAdditionalFields>NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>DESCRIPTION</customTabListAdditionalFields>
